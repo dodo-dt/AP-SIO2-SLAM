@@ -53,6 +53,13 @@ Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en
   - Interface Homme-Machine (IHM).
   - Sitemap (enchaînement des pages).
 
+### Lot 2 – Développement initial
+- Modèle Physique de Données (MPD) au format SQL
+- Pages HTML/CSS statiques
+- Lotissement Trello des tâches
+- Préparation des interfaces pour login et register
+
+---
 *Les autres lots seront réalisés ultérieurement.*
 
 ---
