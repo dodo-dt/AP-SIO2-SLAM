@@ -61,11 +61,11 @@ Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en
 - Préparation des interfaces pour login et register
 
 ### Lot 3 – Développement initial
--La page d'accueil (index.php) qui est la page par défaut du site
--La page d'inscription (inscription.php) qui permet de créer un compte sur le site
--La page de connexion(connexion.php) qui permet de se connecter à son compte
--La page de déconnexion (deconnexion.php) qui permet de se déconnecter de son compte
--La page de la liste des produits (commander.php) qui permet de choisir ses produits
+- La page d'accueil (index.php) qui est la page par défaut du site
+- La page d'inscription (inscription.php) qui permet de créer un compte sur le site
+- La page de connexion(connexion.php) qui permet de se connecter à son compte
+- La page de déconnexion (deconnexion.php) qui permet de se déconnecter de son compte
+- La page de la liste des produits (commander.php) qui permet de choisir ses produits
 - Lotissement Trello des tâches
 
 
