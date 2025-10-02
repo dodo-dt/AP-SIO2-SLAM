@@ -45,7 +45,8 @@ Ces fonctionnalités ne sont pas encore développées mais représentent l’obj
 
 Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en cours de réalisation** :
 
-- ### **Lot 1 : Conception Initiale (Phase Actuelle)**
+
+### **Lot 1 : Conception Initiale (Phase Actuelle)**
   - Diagramme des cas d’utilisation.
   - Diagramme d’activités (processus de commande).
   - Modèle Conceptuel des Données (MCD).
@@ -58,6 +59,15 @@ Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en
 - Pages HTML/CSS statiques
 - Lotissement Trello des tâches
 - Préparation des interfaces pour login et register
+
+### Lot 3 – Développement initial
+-La page d'accueil (index.php) qui est la page par défaut du site
+-La page d'inscription (inscription.php) qui permet de créer un compte sur le site
+-La page de connexion(connexion.php) qui permet de se connecter à son compte
+-La page de déconnexion (deconnexion.php) qui permet de se déconnecter de son compte
+-La page de la liste des produits (commander.php) qui permet de choisir ses produits
+- Lotissement Trello des tâches
+
 
 ---
 *Les autres lots seront réalisés ultérieurement.*
