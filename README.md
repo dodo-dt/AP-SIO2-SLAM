@@ -68,7 +68,11 @@ Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en
 - La page de la liste des produits (commander.php) qui permet de choisir ses produits
 - Lotissement Trello des tâches
 
-
+### Lot 4 – Développement du processus de commande
+- La page de la liste des produits (`commander.php`) qui permet de commander ses produits.
+- La page de paiement (`payer.php`) qui permet de payer sa commande.
+- La page de confirmation (`confirmer.php`) qui permet de confirmer que la commande est prise en compte.
+- Le lotissement sous Trello à jour avec un accès pour l'enseignant.
 ---
 *Les autres lots seront réalisés ultérieurement.*
 
