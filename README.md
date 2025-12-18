@@ -73,6 +73,44 @@ Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en
 - La page de paiement (`payer.php`) qui permet de payer sa commande.
 - La page de confirmation (`confirmer.php`) qui permet de confirmer que la commande est prise en compte.
 - Le lotissement sous Trello à jour avec un accès pour l'enseignant.
+
+### Lot 5 – L'API est l'interface de "RestoWeb" avec "RestoSwing"
+
+- L'application graphique Java utilisée en cuisine pour gérer les commandes.
+- Liste des commandes en attente ('commandes_en_attente.php')
+- Refuser une commande ('commande_refuser.php")
+- Accepter une commande ('commande_accepter.php')
+- Terminer une commande ('commande_terminer.php')
+- Lotissement Trello des tâches
+
+### Lot 6 - Documentation de l'application
+
+- Le diagramme des cas d'utilisation
+- Le modèle conceptuel des données (looping ou équivalent)
+- Le modèle logique des données (PHPMyAdmin ou équivalent)
+- Le modèle physique des données (script(s) SQL)
+- Les états des commandes
+- Les types de conso. (sur place/à emporter)
+- Le sitemap (enchaînement des pages)
+- Les maquettes de l'IHM (Balsamiq ou équivalent)
+- La maquette JSON et si nécessaire les différents messages d'erreur si une réponse est notifiée
+- Le manuel d'installation :
+o Les releases ou la branche git à utiliser
+o Copie de l'application dans le serveur web
+o Exécution des scripts SQL pour installer la base, les triggers et les données
+o Le paramétrage éventuel de l'application
+- Le manuel du jeu de test
+o Quel sont les user/password installés pour les tests
+o Quels sont les données existantes pour les tests
+
+### Lot 7 - Application Java RestoSwing
+
+- Développer une application Java Swing permettant de gérer les commandes.
+- Consommer l’API REST de RestoWeb.
+- Manipuler des objets métiers à partir de réponses JSON.
+- Organiser le travail via un lotissement Trello.
+  
+
 ---
 *Les autres lots seront réalisés ultérieurement.*
 
