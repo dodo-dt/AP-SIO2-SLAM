@@ -95,11 +95,13 @@ Le projet est prévu en plusieurs lots, mais **actuellement seul le Lot 1 est en
 - Les maquettes de l'IHM (Balsamiq ou équivalent)
 - La maquette JSON et si nécessaire les différents messages d'erreur si une réponse est notifiée
 - Le manuel d'installation :
+  
 . Les releases ou la branche git à utiliser
 . Copie de l'application dans le serveur web
 . Exécution des scripts SQL pour installer la base, les triggers et les données
 . Le paramétrage éventuel de l'application
-- Le manuel du jeu de test
+- Le manuel du jeu de test:
+  
 . Quel sont les user/password installés pour les tests
 . Quels sont les données existantes pour les tests
 
